@@ -5,15 +5,25 @@
   box-sizing: border-box;
 }
 
-.box {
-  width: 1440px;
-  height: 348px;
-  padding-right: 165px;
-  padding-left: 165px;
+.main-container {
+  display: flex;
+  justify-content: center;
 }
-.textbox {
-  width: 1440px;
+
+.text-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 555px;
   height: 348px;
   padding-right: 165px;
   padding-left: 165px;
+  padding: 0px 78.5px;
+  text-align: center;
+  background-color: green;
+}
+
+.main-description {
+  margin-top: 24px;
+  margin-bottom: 32px;
 }
