@@ -1,0 +1,30 @@
+/* Global Reset */
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.box {
+  width: 1440;
+  height: 348;
+  angle: 0 deg;
+  opacity: 1;
+  top: -0px;
+  left: 0px;
+  padding-right: 165px;
+  padding-left: 165px;
+}
+.textbox {
+width: 1440;
+height: 348;
+angle: 0 deg;
+opacity: 1;
+top: -0px;
+left: 0px;
+padding-right: 165px;
+padding-left: 165px;
+
+}
+
