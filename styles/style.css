@@ -8,6 +8,10 @@
 .main-container {
   display: flex;
   justify-content: center;
+  align-items: center;
+  background-color: #f7f6f5;
+  margin: 400px;
+  height: 400px;
 }
 
 .text-box {
@@ -24,9 +28,10 @@
 }
 
 .main-description {
-  margin-top: 64px;
-  margin-bottom: 64px;
+  margin-top: 24px;
+  margin-bottom: 32px;
+  background-color: #f7f6f5;
 }
 .img {
-  background-color: #a2c8d1;
+  background-color: #a2c8d1#7DABB2;
 }
