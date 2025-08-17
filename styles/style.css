@@ -20,10 +20,13 @@
   padding-left: 165px;
   padding: 0px 78.5px;
   text-align: center;
-  background-color: green;
+  background-color: #f7f6f5;
 }
 
 .main-description {
-  margin-top: 24px;
-  margin-bottom: 32px;
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+.img {
+  background-color: #a2c8d1;
 }
