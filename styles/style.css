@@ -4,14 +4,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  display: flex;
+  align-items: center;
+  min-height: 1000dvh;
+}
 
 .main-container {
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: #f7f6f5;
-  margin: 400px;
-  height: 400px;
 }
 
 .text-box {
